@@ -6,6 +6,7 @@ git config --global user.name "Francesco Marangione"
 git config --global user.email mft@mftnet.com
 git config --global core.editor subl
 git config --global color.diff auto
+git config --global http.proxy $HTTP_PROXY
 
 alias subl="/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl"
 ```
